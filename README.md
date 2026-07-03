@@ -83,7 +83,7 @@ Conteúdos técnicos relacionados ao PeritoLab e às boas práticas de preserva�
 ## LinkedIn
 
 - 03/07/2026 — Lançamento oficial do PeritoLab v1.0.0
-  https://www.linkedin.com/posts/SEU-LINK-DA-PUBLICACAO
+  https://www.linkedin.com/posts/lucianomonteirocaprara_peritolab-computaaexaetoforense-peraedciadigital-ugcPost-7478807095203770368-qY4q/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABos26cB_dR1S3HqYuBlyu_-Cenr_-HVi38
 ---
 
 # Histórico
