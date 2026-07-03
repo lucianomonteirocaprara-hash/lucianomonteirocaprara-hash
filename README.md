@@ -2,25 +2,11 @@
 
 # Luciano Monteiro Caprara
 
-### Computação Forense • Perícia em Informática • Segurança da Informação
+### Perito em Informática • Computação Forense • Desenvolvedor do PeritoLab
 
-Desenvolvedor do projeto **PeritoLab**, plataforma Open Source criada para preservação, verificação de integridade e documentação de evidências digitais.
+Desenvolvendo soluções Open Source para preservação, verificação de integridade e documentação de evidências digitais.
 
-<p>
-
-<a href="https://peritolab-production.up.railway.app/">
-<img src="https://img.shields.io/badge/Demonstração-PeritoLab-0A66C2?style=for-the-badge">
-</a>
-
-<a href="https://github.com/lucianomonteirocaprara-hash/PeritoLab">
-<img src="https://img.shields.io/badge/GitHub-PeritoLab-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/lucianomonteirocaprara">
-<img src="https://img.shields.io/badge/LinkedIn-Luciano_Monteiro-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-</p>
+**PeritoLab** • **Repositório** • **LinkedIn**
 
 </div>
 
@@ -28,82 +14,82 @@ Desenvolvedor do projeto **PeritoLab**, plataforma Open Source criada para prese
 
 # Sobre
 
-Atuo no desenvolvimento de soluções voltadas à **Computação Forense**, com foco na preservação, análise e documentação de evidências digitais.
+Atuo na área de Tecnologia da Informação com foco em Computação Forense, preservação de evidências digitais e desenvolvimento de ferramentas voltadas ao apoio da atividade pericial.
 
-O **PeritoLab** nasceu a partir de uma demanda real apresentada por um advogado que precisava verificar se um documento havia sido alterado. A dificuldade encontrada por profissionais sem formação técnica motivou o desenvolvimento de uma plataforma simples, acessível e baseada em boas práticas periciais.
+O **PeritoLab** nasceu a partir de uma demanda real apresentada por um advogado que precisava verificar a integridade de documentos digitais de maneira simples, confiável e acessível.
 
-Hoje o projeto evolui continuamente com o objetivo de aproximar tecnologia e Direito por meio de ferramentas Open Source.
+Desde então o projeto evolui continuamente com o propósito de aproximar a Computação Forense dos profissionais que atuam nas áreas jurídica, pericial e tecnológica.
 
 ---
 
-# Projeto Principal
+# Projeto em Destaque
 
 ## PeritoLab
 
-Ferramenta destinada ao apoio de:
-
-- Peritos Judiciais
-- Assistentes Técnicos
-- Advogados
-- Profissionais de TI
-- Segurança da Informação
+Plataforma Open Source para apoio à Computação Forense.
 
 ### Funcionalidades
 
-- Geração de Hash
-- Verificação de Integridade
-- Cadeia de Custódia
+- Geração de Hash (MD5, SHA-1, SHA-256 e SHA-512)
+- Verificação de Integridade de Arquivos
 - Metadata Inspector
+- Geração do Termo de Cadeia de Custódia
 - Relatórios Técnicos
 
-### Tecnologias
+**Demonstração**
 
-PHP • Docker • Linux • HTML • CSS • JavaScript
+https://peritolab-production.up.railway.app/
+
+**Repositório**
+
+https://github.com/lucianomonteirocaprara-hash/PeritoLab
+
+---
+
+# Áreas de Atuação
+
+- Computação Forense
+- Perícia em Informática
+- Evidências Digitais
+- Cadeia de Custódia
+- Segurança da Informação
+- Desenvolvimento Open Source
 
 ---
 
 # Tecnologias
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=php,docker,linux,git,github,html,css,js,vscode"/>
-
-</p>
-
----
-
-# Estatísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucianomonteirocaprara-hash&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianomonteirocaprara-hash&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+| Desenvolvimento | Infraestrutura |
+|-----------------|----------------|
+| PHP             | Linux          |
+| JavaScript      | Docker         |
+| HTML5           | Git            |
+| CSS3            | GitHub         |
 
 ---
 
-# Áreas de Interesse
+# Publicações
 
-- Computação Forense
-- Evidências Digitais
-- Cadeia de Custódia
-- Análise de Metadados
-- Segurança da Informação
-- Linux
-- Infraestrutura
-- Desenvolvimento Open Source
+Este perfil reúne os projetos desenvolvidos na área de Computação Forense.
+
+Conteúdos técnicos relacionados ao PeritoLab e às boas práticas de preservação de evidências digitais são publicados regularmente no LinkedIn.
+
+- Lançamento oficial do PeritoLab v1.0.0
+- Em breve: O papel das funções hash na preservação de evidências digitais
+- Em breve: Cadeia de Custódia aplicada à Computação Forense
+- Em breve: Metadata Inspector na prática
 
 ---
 
 # Histórico
 
-Este perfil concentra os projetos relacionados à Computação Forense e ao desenvolvimento do **PeritoLab**.
+Este perfil concentra os projetos relacionados à Computação Forense.
 
 Meu histórico de estudos, experimentações e projetos anteriores permanece disponível em:
 
-**https://github.com/lmonteiroc**
+**Perfil de desenvolvimento**
+
+https://github.com/lmonteiroc
 
 ---
 
@@ -113,18 +99,10 @@ Meu histórico de estudos, experimentações e projetos anteriores permanece dis
 
 https://www.linkedin.com/in/lucianomonteirocaprara
 
-**PeritoLab**
-
-https://peritolab-production.up.railway.app/
-
-**GitHub**
-
-https://github.com/lucianomonteirocaprara-hash
-
 ---
 
 <div align="center">
 
-**Tecnologia a serviço da verdade.**
+*"Tecnologia a serviço da verdade e da integridade das evidências digitais."*
 
 </div>
