@@ -76,11 +76,14 @@ Este perfil reúne os projetos desenvolvidos na área de Computação Forense.
 
 Conteúdos técnicos relacionados ao PeritoLab e às boas práticas de preservação de evidências digitais são publicados regularmente no LinkedIn.
 
-- Lançamento oficial do PeritoLab v1.0.0
 - Em breve: O papel das funções hash na preservação de evidências digitais
 - Em breve: Cadeia de Custódia aplicada à Computação Forense
 - Em breve: Metadata Inspector na prática
 
+## LinkedIn
+
+- 03/07/2026 — Lançamento oficial do PeritoLab v1.0.0
+  https://www.linkedin.com/posts/SEU-LINK-DA-PUBLICACAO
 ---
 
 # Histórico
