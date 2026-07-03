@@ -6,7 +6,9 @@
 
 Desenvolvendo soluções Open Source para preservação, verificação de integridade e documentação de evidências digitais.
 
-**PeritoLab** • **Repositório** • **LinkedIn**
+| Projeto | Código Fonte | Perfil Profissional |
+|:-------:|:------------:|:-------------------:|
+| <a href="https://peritolab-production.up.railway.app/">PeritoLab</a> | <a href="https://github.com/lucianomonteirocaprara-hash/PeritoLab">GitHub</a> | <a href="https://www.linkedin.com/in/lucianomonteirocaprara">LinkedIn</a> |
 
 </div>
 
